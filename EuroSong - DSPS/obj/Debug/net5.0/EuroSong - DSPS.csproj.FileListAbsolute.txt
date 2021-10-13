@@ -1,0 +1,29 @@
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\appsettings.json
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.exe
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\ref\EuroSong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\EuroSong - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\staticwebassets\EuroSong - DSPS.StaticWebAssets.Manifest.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\staticwebassets\EuroSong - DSPS.StaticWebAssets.xml
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\scopedcss\bundle\EuroSong - DSPS.styles.css
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.RazorTargetAssemblyInfo.cache
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\ref\EuroSong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\EuroSong - DSPS\obj\Debug\net5.0\EuroSong - DSPS.genruntimeconfig.cache
