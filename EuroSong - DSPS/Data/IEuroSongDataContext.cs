@@ -8,8 +8,10 @@ namespace EuroSong___DSPS.Data
     public interface IEuroSongDataContext
     {
         void AddSong(Song song);
+        void DeleteSong(int id);
         IEnumerable<Song> GetSongs();
 
         IEnumerable<Song> GetSpecificSongs(string word);
+        Song GetSongById(int id);
     }
 }

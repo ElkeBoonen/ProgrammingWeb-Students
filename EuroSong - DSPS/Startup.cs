@@ -32,7 +32,7 @@ namespace EuroSong___DSPS
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EuroSong___DSPS", Version = "v1" });
             });
-            services.AddSingleton(typeof(IEuroSongDataContext), new EuroSongDataList());
+            services.AddSingleton(typeof(IEuroSongDataContext), new EuroSongDataBase());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

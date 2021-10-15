@@ -13,6 +13,16 @@ namespace EuroSong___DSPS.Data
             songs.Add(song);
         }
 
+        public void DeleteSong(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Song GetSongById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Song> GetSongs()
         {
             return songs;

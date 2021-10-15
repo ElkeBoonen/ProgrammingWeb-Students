@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "EuroSong - DSPS/1.0.0": {
         "dependencies": {
+          "LiteDB": "5.0.11",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -323,6 +324,17 @@
         },
         "compile": {
           "EuroSong - DSPS.dll": {}
+        }
+      },
+      "LiteDB/5.0.11": {
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.11.0",
+            "fileVersion": "5.0.11.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -2089,6 +2101,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "LiteDB/5.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6cL4bOmVCUB0gIK+6qIr68HeqjjHZicPDGQjvJ87mIOvkFsEsJWkIps3yoKNeLpHhJQur++yoQ9Q8gxsdos0xQ==",
+      "path": "litedb/5.0.11",
+      "hashPath": "litedb.5.0.11.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
