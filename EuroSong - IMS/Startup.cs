@@ -1,4 +1,6 @@
 using EuroSong.Data;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -36,7 +38,15 @@ namespace EuroSong
             services.AddCors(s => s.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin()
                                               .AllowAnyMethod()
                                               .AllowAnyHeader()));
+            services
+              .AddAuthentication()
+              .AddScheme<AuthenticationSchemeOptions,
+                      BasicAuthenticationHandler>("BasicAuthenticationScheme", options => { });
 
+            services.AddAuthorization(options => {
+                options.AddPolicy("BasicAuthentication",
+                        new AuthorizationPolicyBuilder("BasicAuthenticationScheme").RequireAuthenticatedUser().Build());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +60,7 @@ namespace EuroSong
             }
 
             app.UseCors("MyPolicy");
+            app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
