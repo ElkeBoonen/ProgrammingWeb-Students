@@ -59,6 +59,7 @@ namespace EuroSong.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Policy = "BasicAuthentication", Roles = "admin")]
         public ActionResult Delete(int id)
         {
             _data.DeleteSong(id);
