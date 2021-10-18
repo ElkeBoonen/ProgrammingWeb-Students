@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2gUJULCzcm8FKq54Azc4+dcWWfG047e8CifG+ntbAByXWyfSAW/tj8SWllTPv5tad1U2hN7eId44nIB3nbMyA==",
+  "dgSpecHash": "1JKMXOwKurqSWDTmlHU6n+NOUC8YR5txPbvc8P6dLpYFC0j0xhsYMhG3M7SDnqaSAPmPiwb/BJBehGaQzUITkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb\\EuroSong\\EuroSong.csproj",
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb\\EuroSong - IMS\\EuroSong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elkeb\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

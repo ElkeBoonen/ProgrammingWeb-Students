@@ -15,6 +15,11 @@ namespace EuroSong.Data
             database.GetCollection<Song>("Songs").Insert(song);
         }
 
+        public void DeleteSong(int id)
+        {
+            database.GetCollection<Song>("Songs").Delete(id);
+        }
+
         public Song GetSong(int id)
         {
             return database.GetCollection<Song>("Songs").FindById(id);
@@ -25,9 +30,14 @@ namespace EuroSong.Data
             return database.GetCollection<Song>("Songs").FindAll();
         }
 
+        public void UpdateSong(int id, Song song)
+        {
+            database.GetCollection<Song>("Songs").Update(id, song);
+        }
+
         IEnumerable<Song> IEuroSongDatacontext.GetSongs(string word)
         {
-            return database.GetCollection<Song>("Songs").Find(s => s.Title.Contains(word));
+            return database.GetCollection<Song>("Songs").Find(s => s.Title.Contains(word) || s.Artist.Contains(word));
         }
     }
 }

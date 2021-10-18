@@ -13,6 +13,11 @@ namespace EuroSong.Data
             songslist.Add(song);
         }
 
+        public void DeleteSong(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public Song GetSong(int id)
         {
             throw new NotImplementedException();
@@ -21,6 +26,11 @@ namespace EuroSong.Data
         public IEnumerable<Song> GetSongs()
         {
             return songslist;
+        }
+
+        public void UpdateSong(int id, Song song)
+        {
+            throw new NotImplementedException();
         }
 
         IEnumerable<Song> IEuroSongDatacontext.GetSongs(string word)

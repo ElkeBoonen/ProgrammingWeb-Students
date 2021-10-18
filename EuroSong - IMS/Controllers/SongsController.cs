@@ -20,8 +20,9 @@ namespace EuroSong.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<Song>> Get()
+        public ActionResult<IEnumerable<Song>> Get(string word = "")
         {
+            if (word !="") return Ok(_data.GetSongs(word).ToList()); 
             return Ok(_data.GetSongs()); 
         }
 
@@ -41,17 +42,32 @@ namespace EuroSong.Controllers
             if (s!=null) return s;
             return NotFound("Oepsie! Probeer een andere ID");
         }
-        [HttpGet("Title/{word}")]
+
+        /*[HttpGet("Title/{word}")]
         public ActionResult<IEnumerable<Song>> Get(string word)
         {
             return _data.GetSongs(word).ToList();
-        }
+        }*/
 
         [HttpPost]
         public ActionResult Post([FromBody] Song song)
         {
             _data.AddSong(song);
             return Ok("Hooray!!");
+        }
+
+        [HttpDelete]
+        public ActionResult Delete(int id)
+        {
+            _data.DeleteSong(id);
+            return Ok("Song was deleted");
+        }
+
+        [HttpPut]
+        public ActionResult Update(int id, [FromBody]Song song)
+        {
+            _data.UpdateSong(id, song);
+            return Ok("Song was updated");
         }
     }
 }

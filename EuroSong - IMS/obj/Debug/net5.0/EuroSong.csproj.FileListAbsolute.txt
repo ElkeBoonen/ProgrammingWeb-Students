@@ -28,3 +28,33 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong\obj\Debug\net5
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong\obj\Debug\net5.0\EuroSong.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong\obj\Debug\net5.0\EuroSong.genruntimeconfig.cache
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong\bin\Debug\net5.0\LiteDB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\appsettings.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\ref\EuroSong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\EuroSong.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\LiteDB.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\staticwebassets\EuroSong.StaticWebAssets.Manifest.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\staticwebassets\EuroSong.StaticWebAssets.xml
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\scopedcss\bundle\EuroSong.styles.css
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.RazorTargetAssemblyInfo.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\ref\EuroSong.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb\EuroSong - IMS\obj\Debug\net5.0\EuroSong.genruntimeconfig.cache
