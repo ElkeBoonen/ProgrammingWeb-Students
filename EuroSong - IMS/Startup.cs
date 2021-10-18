@@ -32,6 +32,11 @@ namespace EuroSong
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EuroSong", Version = "v1" });
             });
+
+            services.AddCors(s => s.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin()
+                                              .AllowAnyMethod()
+                                              .AllowAnyHeader()));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,10 +49,9 @@ namespace EuroSong
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "EuroSong v1"));
             }
 
+            app.UseCors("MyPolicy");
             app.UseRouting();
-
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
