@@ -33,5 +33,10 @@ namespace EuroSong___DSPS.Data
         {
             return db.GetCollection<Song>("Songs").Find(item => item.Title.Contains(word) || item.Artist.Contains(word));
         }
+
+        public void UpdateSong(int id, Song song)
+        {
+            db.GetCollection<Song>("Songs").Update(id, song);
+        }
     }
 }

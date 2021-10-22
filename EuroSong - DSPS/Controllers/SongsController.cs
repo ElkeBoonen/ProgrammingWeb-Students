@@ -56,9 +56,10 @@ namespace EuroSong___DSPS.Controllers
         }
 
         [HttpPut]
-        public ActionResult Update(Song song)
+        public ActionResult Update(int id, [FromBody]Song song)
         {
-            return Ok();
+            _data.UpdateSong(id, song);
+            return Ok("Song was updated!");
         }
     }
 }

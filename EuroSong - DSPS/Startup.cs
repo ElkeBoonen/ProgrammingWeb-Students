@@ -33,6 +33,12 @@ namespace EuroSong___DSPS
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EuroSong___DSPS", Version = "v1" });
             });
             services.AddSingleton(typeof(IEuroSongDataContext), new EuroSongDataBase());
+
+
+            //adjust ConfigureServices-method
+            services.AddCors(s => s.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin()
+                                              .AllowAnyMethod()
+                                              .AllowAnyHeader()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +50,7 @@ namespace EuroSong___DSPS
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "EuroSong___DSPS v1"));
             }
+            app.UseCors("MyPolicy");
 
             app.UseRouting();
 
@@ -53,6 +60,8 @@ namespace EuroSong___DSPS
             {
                 endpoints.MapControllers();
             });
+
+            
         }
     }
 }

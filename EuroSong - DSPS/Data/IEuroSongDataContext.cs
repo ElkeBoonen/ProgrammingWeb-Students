@@ -9,6 +9,7 @@ namespace EuroSong___DSPS.Data
     {
         void AddSong(Song song);
         void DeleteSong(int id);
+        void UpdateSong(int id, Song song);
         IEnumerable<Song> GetSongs();
 
         IEnumerable<Song> GetSpecificSongs(string word);

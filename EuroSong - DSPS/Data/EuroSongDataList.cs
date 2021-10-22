@@ -32,5 +32,10 @@ namespace EuroSong___DSPS.Data
         {
             return songs.Where(item => item.Title.Contains(word) || item.Artist.Contains(word));
         }
+
+        public void UpdateSong(int id, Song song)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
