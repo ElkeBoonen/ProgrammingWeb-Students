@@ -29,5 +29,11 @@ namespace Eurosong___IMS.Controllers
             _dataContext.AddSong(song);
             return Ok("Song toegevoegd!");
         }
+
+        [HttpGet]
+        public ActionResult<Song> Get(int id)
+        { 
+            _dataContext.
+        }
     }
 }

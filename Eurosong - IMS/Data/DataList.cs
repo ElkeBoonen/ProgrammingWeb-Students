@@ -10,6 +10,11 @@ namespace Eurosong___IMS.Data
             _songs.Add(song);
         }
 
+        public Song GetSong(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Song> GetSongs()
         {
             return _songs;
