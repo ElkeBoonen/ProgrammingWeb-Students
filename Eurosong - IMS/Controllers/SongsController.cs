@@ -30,10 +30,12 @@ namespace Eurosong___IMS.Controllers
             return Ok("Song toegevoegd!");
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public ActionResult<Song> Get(int id)
         { 
-            _dataContext.
+            Song song = _dataContext.GetSong(id);
+            if (song == null) return NotFound("Wrong id!");
+            return Ok(song);
         }
     }
 }
