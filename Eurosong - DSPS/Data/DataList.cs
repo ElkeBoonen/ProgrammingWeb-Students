@@ -52,5 +52,15 @@ namespace Eurosong___DSPS.Data
         {
             throw new NotImplementedException();
         }
+
+        public IEnumerable<Song> GetSongs(string word)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<Song> GetSongsByArtist(string artist)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -37,6 +37,24 @@ namespace Eurosong___DSPS.Data
             return _data.GetCollection<Song>("Songs").FindAll();
         }
 
+        public IEnumerable<Song> GetSongs(string word)
+        {
+            /*List<Song> songs = new List<Song>();
+            foreach (Song item in _data.GetCollection<Song>("Songs").FindAll())
+            {
+                if (item.Title.Contains(word)) songs.Add(item);
+            }
+            return songs;*/
+
+            return _data.GetCollection<Song>("Songs").FindAll().Where(song => song.Title.ToLower().Contains(word.ToLower()));
+        }
+
+        public IEnumerable<Song> GetSongsByArtist(string artist)
+        {
+            int id = _data.GetCollection<Artist>("Artists").FindOne(x => x.Name.ToLower().Equals(artist.ToLower())).ID;
+            return _data.GetCollection<Song>("Songs").FindAll().Where(x => x.Artist == id);
+        }
+
         public IEnumerable<Vote> GetVotes()
         {
             return _data.GetCollection<Vote>("Votes").FindAll();

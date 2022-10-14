@@ -36,10 +36,18 @@ namespace Eurosong___DSPS.Controllers
             return Ok(song);
         }
 
-        [HttpGet]
-        public ActionResult<Song> Get(string word)
+        
+        //get all songs with specific word in title
+        [HttpGet("/Song/Title")]
+        public ActionResult<IEnumerable<Song>> Get(string word)
         {
-           
+            return Ok(_dataContext.GetSongs(word));
+        }
+
+        [HttpGet("/[controller]/Artist")]
+        public ActionResult<IEnumerable<Song>> GetSongs(string artist)
+        {
+            return Ok(_dataContext.GetSongsByArtist(artist));
         }
     }
 }
