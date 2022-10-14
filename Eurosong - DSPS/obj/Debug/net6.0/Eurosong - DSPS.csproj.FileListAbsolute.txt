@@ -25,3 +25,4 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSP
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.genruntimeconfig.cache
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\ref\Eurosong - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\LiteDB.dll

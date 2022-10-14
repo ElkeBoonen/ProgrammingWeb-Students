@@ -10,7 +10,7 @@ namespace Eurosong___DSPS
 
             // Add services to the container.
 
-            builder.Services.AddSingleton(typeof(IDataContext), typeof(DataList));
+            builder.Services.AddSingleton(typeof(IDataContext), typeof(Database));
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

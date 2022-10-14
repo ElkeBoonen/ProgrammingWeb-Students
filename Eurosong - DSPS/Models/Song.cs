@@ -2,7 +2,9 @@
 {
     public class Song
     {
-        public string Artist { get; set; }
+        public int ID { get; set; }
+        public int Artist { get; set; }
         public string Title { get; set; }
+        public string Spotify { get; set; }
     }
 }
