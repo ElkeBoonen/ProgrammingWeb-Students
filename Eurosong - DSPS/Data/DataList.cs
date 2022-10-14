@@ -47,5 +47,10 @@ namespace Eurosong___DSPS.Data
         {
             return _votes;
         }
+
+        public Song GetSong(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

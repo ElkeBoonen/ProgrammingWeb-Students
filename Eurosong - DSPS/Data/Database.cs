@@ -27,6 +27,11 @@ namespace Eurosong___DSPS.Data
             return _data.GetCollection<Artist>("Artists").FindAll();
         }
 
+        public Song GetSong(int id)
+        {
+            return _data.GetCollection<Song>("Songs").FindById(id);
+        }
+
         public IEnumerable<Song> GetSongs()
         {
             return _data.GetCollection<Song>("Songs").FindAll();
