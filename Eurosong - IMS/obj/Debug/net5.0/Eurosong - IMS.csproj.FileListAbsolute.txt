@@ -1,0 +1,7 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net5.0\Eurosong - IMS.MvcApplicationPartsAssemblyInfo.cache

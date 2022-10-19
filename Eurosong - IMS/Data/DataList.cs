@@ -18,6 +18,11 @@ namespace Eurosong___IMS.Data
             _songs.Add(song);
         }
 
+        public Song Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public Artist GetArtist(int id)
         {
             throw new NotImplementedException();

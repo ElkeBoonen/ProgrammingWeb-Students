@@ -10,6 +10,7 @@ namespace Eurosong___IMS.Data
         void AddSong(Song song);
         IEnumerable<Song> GetSongs();
         Song GetSong(int id);
+        Song Delete(int id);
 
         /*
            ARTIST-METHODES

@@ -18,6 +18,13 @@ namespace Eurosong___IMS.Data
             db.GetCollection<Song>("Songs").Insert(song);
         }
 
+        public Song Delete(int id)
+        {
+            Song song = GetSong(id);
+            db.GetCollection<Song>("Songs").Delete(id);
+            return song;
+        }
+
         public Artist GetArtist(int id)
         {
             return db.GetCollection<Artist>("Artists").FindById(id);
