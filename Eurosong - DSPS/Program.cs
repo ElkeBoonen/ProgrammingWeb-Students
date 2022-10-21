@@ -10,6 +10,9 @@ namespace Eurosong___DSPS
 
             // Add services to the container.
 
+            builder.Services.AddCors(s => s.AddPolicy("MyPolicy", b => b.AllowAnyOrigin()
+                                                                        .AllowAnyMethod()
+                                                                        .AllowAnyHeader()));
             builder.Services.AddSingleton(typeof(IDataContext), typeof(Database));
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -18,6 +21,8 @@ namespace Eurosong___DSPS
 
             var app = builder.Build();
 
+            app.UseCors("MyPolicy");
+            app.UseHttpsRedirection();
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
