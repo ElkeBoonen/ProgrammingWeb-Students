@@ -1,4 +1,6 @@
 using Eurosong___DSPS.Data;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Eurosong___DSPS
 {
@@ -18,6 +20,17 @@ namespace Eurosong___DSPS
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            //ConfigureServices
+            builder.Services
+              .AddAuthentication()
+              .AddScheme<AuthenticationSchemeOptions,
+                      BasicAuthenticationHandler>("BasicAuthenticationScheme", options => { });
+
+            builder.Services.AddAuthorization(options => {
+                options.AddPolicy("BasicAuthentication",
+                        new AuthorizationPolicyBuilder("BasicAuthenticationScheme").RequireAuthenticatedUser().Build());
+            });
 
             var app = builder.Build();
 

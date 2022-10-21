@@ -1,5 +1,6 @@
 using Eurosong___DSPS.Data;
 using Eurosong___DSPS.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eurosong___DSPS.Controllers
@@ -16,6 +17,7 @@ namespace Eurosong___DSPS.Controllers
         }
         
         [HttpPost]
+        [Authorize(Policy = "BasicAuthentication")]
         public ActionResult Post(Song song)
         { 
             _dataContext.AddSong(song);
@@ -48,6 +50,15 @@ namespace Eurosong___DSPS.Controllers
         public ActionResult<IEnumerable<Song>> GetSongs(string artist)
         {
             return Ok(_dataContext.GetSongsByArtist(artist));
+        }
+
+        [HttpDelete]
+        [Authorize(Policy = "BasicAuthentication", Roles = "admin")]
+        public ActionResult DeleteSong(int id)
+        {
+            if (_dataContext.GetSong(id) == null) return NotFound();
+            _dataContext.DeleteSong(id);
+            return Ok();
         }
     }
 }

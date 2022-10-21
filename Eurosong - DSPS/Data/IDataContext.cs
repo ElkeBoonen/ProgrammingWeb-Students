@@ -9,7 +9,9 @@ namespace Eurosong___DSPS.Data
         IEnumerable<Song> GetSongs();
         IEnumerable<Song> GetSongs(string word);
         IEnumerable<Song> GetSongsByArtist(string artist);
-        Song GetSong(int id);   
+        Song GetSong(int id);
+
+        void DeleteSong(int id);
 
         /// ARTISTS
         void AddArtist(Artist artist);

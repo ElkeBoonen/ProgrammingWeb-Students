@@ -62,5 +62,10 @@ namespace Eurosong___DSPS.Data
         {
             throw new NotImplementedException();
         }
+
+        public void DeleteSong(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

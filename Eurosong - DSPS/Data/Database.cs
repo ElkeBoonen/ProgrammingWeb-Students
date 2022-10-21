@@ -22,6 +22,11 @@ namespace Eurosong___DSPS.Data
             _data.GetCollection<Vote>("Votes").Insert(vote);
         }
 
+        public void DeleteSong(int id)
+        {
+            _data.GetCollection<Song>("Songs").Delete(id);
+        }
+
         public IEnumerable<Artist> GetArtists()
         {
             return _data.GetCollection<Artist>("Artists").FindAll();
