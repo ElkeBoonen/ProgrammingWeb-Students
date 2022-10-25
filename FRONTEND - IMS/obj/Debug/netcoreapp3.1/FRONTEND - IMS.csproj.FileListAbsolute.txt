@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\FRONTEND - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynHu3lBjUBYf2/Jf6fKfsosKh5pckP0U2SrALM8n27j+fOIPDkvfI3OU0rMgHJWVnWViCS/umaZpWwHarkMqpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\FRONTEND - IMS\\FRONTEND - IMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\elkeb\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
