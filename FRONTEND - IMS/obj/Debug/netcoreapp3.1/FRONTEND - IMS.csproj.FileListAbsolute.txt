@@ -15,3 +15,4 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.dll
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\obj\Debug\netcoreapp3.1\FRONTEND - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\FRONTEND - IMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
