@@ -1,6 +1,5 @@
 using Eurosong___DSPS.Data;
 using Eurosong___DSPS.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eurosong___DSPS.Controllers
@@ -9,56 +8,40 @@ namespace Eurosong___DSPS.Controllers
     [Route("[controller]")]
     public class SongController : ControllerBase
     {
-        private IDataContext _dataContext;
+        private DataContext _data;
 
-        public SongController(IDataContext data)
+        public SongController(DataContext data)
         {
-            _dataContext = data;
+            this._data = data;
         }
         
         [HttpPost]
-        [Authorize(Policy = "BasicAuthentication")]
         public ActionResult Post(Song song)
-        { 
-            _dataContext.AddSong(song);
-            return Ok("Hooray!");
+        {
+            _data.AddSong(song);
+            return Ok("Song posted!");
         }
 
         [HttpGet]
         public ActionResult<List<Song>> Get()
         {
-            return Ok(_dataContext.GetSongs());
+            return Ok(_data.GetSongs());
         }
 
-        [HttpGet("{id}")]
-        public ActionResult<Song> Get(int id)
-        { 
-            Song song = _dataContext.GetSong(id);
-            if (song == null) return NotFound("Wrong ID");
-            return Ok(song);
-        }
+        /* Other possible solution
+           [HttpGet]
+            public ActionResult<List<Song>> Get(qtring word)
+            {
+                return Ok(_data.GetSongsByTitle(word));
+            }
+         */
 
-        
-        //get all songs with specific word in title
-        [HttpGet("/Song/Title")]
-        public ActionResult<IEnumerable<Song>> Get(string word)
+        [HttpGet("Search")]
+        public ActionResult<List<Song>> GetByTitle(string word)
         {
-            return Ok(_dataContext.GetSongs(word));
+            return Ok(_data.GetSongsByTitle(word));
         }
 
-        [HttpGet("/[controller]/Artist")]
-        public ActionResult<IEnumerable<Song>> GetSongs(string artist)
-        {
-            return Ok(_dataContext.GetSongsByArtist(artist));
-        }
 
-        [HttpDelete]
-        [Authorize(Policy = "BasicAuthentication", Roles = "admin")]
-        public ActionResult DeleteSong(int id)
-        {
-            if (_dataContext.GetSong(id) == null) return NotFound();
-            _dataContext.DeleteSong(id);
-            return Ok();
-        }
     }
 }

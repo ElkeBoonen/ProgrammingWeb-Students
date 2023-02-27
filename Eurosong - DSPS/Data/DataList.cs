@@ -2,70 +2,22 @@
 
 namespace Eurosong___DSPS.Data
 {
-    public class DataList : IDataContext
+    public class DataList : DataContext
     {
-        private List<Song> _songs = new List<Song>();
-        private List<Artist> _artists = new List<Artist>();
-        private List<Vote> _votes = new List<Vote>();
-
-        /*
-         ************ SONGS
-         */
-
+        List<Song> list = new List<Song>();
         public void AddSong(Song song)
         {
-           _songs.Add(song);
+            list.Add(song);
         }
+
         public IEnumerable<Song> GetSongs()
         {
-            return _songs;
+            return list;
         }
 
-        /*
-        ************ ARTISTS
-        */
-        public void AddArtist(Artist artist)
+        public IEnumerable<Song> GetSongsByTitle(string word)
         {
-            _artists.Add(artist);
-        }
-
-  
-        public IEnumerable<Artist> GetArtists()
-        {
-            return _artists;
-        }
-
-        /*
-        ************ VOTES
-        */
-        public void AddVote(Vote vote)
-        {
-            _votes.Add(vote);
-        }
-
-        public IEnumerable<Vote> GetVotes()
-        {
-            return _votes;
-        }
-
-        public Song GetSong(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Song> GetSongs(string word)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Song> GetSongsByArtist(string artist)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void DeleteSong(int id)
-        {
-            throw new NotImplementedException();
+            return list.Where(x => x.Title.Contains(word));
         }
     }
 }

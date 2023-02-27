@@ -1,0 +1,27 @@
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\appsettings.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Hello API - DSPS.exe
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Hello API - DSPS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Hello API - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Hello API - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Hello API - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\scopedcss\bundle\Hello API - DSPS.styles.css
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\refint\Hello API - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\Hello API - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - DSPS\obj\Debug\net6.0\ref\Hello API - DSPS.dll

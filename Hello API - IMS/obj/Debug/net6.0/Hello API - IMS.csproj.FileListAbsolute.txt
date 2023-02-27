@@ -1,0 +1,27 @@
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\appsettings.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Hello API - IMS.exe
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Hello API - IMS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Hello API - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Hello API - IMS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Hello API - IMS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\scopedcss\bundle\Hello API - IMS.styles.css
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\refint\Hello API - IMS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\Hello API - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello API - IMS\obj\Debug\net6.0\ref\Hello API - IMS.dll

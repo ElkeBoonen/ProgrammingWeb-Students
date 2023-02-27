@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\Eurosong - DSPS\\Eurosong - DSPS.csproj": {}
+    "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\Eurosong - DSPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\Eurosong - DSPS\\Eurosong - DSPS.csproj": {
+    "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\Eurosong - DSPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
         "projectName": "Eurosong - DSPS",
-        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
+        "projectPath": "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingWeb-Students\\Eurosong - DSPS\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,10 +44,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "LiteDB": {
-              "target": "Package",
-              "version": "[5.0.12, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

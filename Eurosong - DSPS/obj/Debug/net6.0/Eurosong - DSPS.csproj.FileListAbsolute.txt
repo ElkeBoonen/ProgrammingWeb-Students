@@ -1,28 +1,27 @@
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\appsettings.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.exe
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.deps.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.runtimeconfig.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.pdb
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.AssemblyReference.cache
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.AssemblyInfoInputs.cache
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.AssemblyInfo.cs
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.CoreCompileInputs.cache
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\scopedcss\bundle\Eurosong - DSPS.styles.css
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.CopyComplete
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\refint\Eurosong - DSPS.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.pdb
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.genruntimeconfig.cache
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\obj\Debug\net6.0\ref\Eurosong - DSPS.dll
-C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingWeb-Students\Eurosong - DSPS\bin\Debug\net6.0\LiteDB.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\appsettings.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.exe
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Eurosong - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\scopedcss\bundle\Eurosong - DSPS.styles.css
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\refint\Eurosong - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\Eurosong - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive\Desktop\Eurosong - DSPS\obj\Debug\net6.0\ref\Eurosong - DSPS.dll
