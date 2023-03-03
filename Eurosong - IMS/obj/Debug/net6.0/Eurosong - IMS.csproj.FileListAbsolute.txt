@@ -1,0 +1,27 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\appsettings.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Eurosong - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Eurosong - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Eurosong - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Eurosong - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Eurosong - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\scopedcss\bundle\Eurosong - IMS.styles.css
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\refint\Eurosong - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\Eurosong - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Eurosong - IMS\obj\Debug\net6.0\ref\Eurosong - IMS.dll
