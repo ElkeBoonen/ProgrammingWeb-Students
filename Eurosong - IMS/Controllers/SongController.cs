@@ -28,6 +28,14 @@ namespace Eurosong___IMS.Controllers
             return Ok(_data.GetSongs());
         }
 
+        [HttpGet]
+        [Route("Search")]
+        public ActionResult<List<Song>> GetByWordInTitle(string word)
+        {
+            return Ok(_data.GetSongsByWord(word));
+        }
+
+
 
     }
 }

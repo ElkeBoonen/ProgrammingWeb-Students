@@ -14,5 +14,10 @@ namespace Eurosong___IMS.Data
         {
             return list;
         }
+
+        public IEnumerable<Song> GetSongsByWord(string word)
+        {
+            return list.Where(s => s.Title.Contains(word));
+        }
     }
 }
