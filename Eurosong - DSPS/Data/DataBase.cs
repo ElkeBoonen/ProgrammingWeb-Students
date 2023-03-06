@@ -21,5 +21,10 @@ namespace Eurosong___DSPS.Data
         {
             return db.GetCollection<Song>(songs).FindAll().Where(s => s.Title.Contains(word));
         }
+
+        public Song GetSongById(int id)
+        {
+            return db.GetCollection<Song>(songs).FindById(id);
+        }
     }
 }

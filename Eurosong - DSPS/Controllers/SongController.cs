@@ -42,6 +42,14 @@ namespace Eurosong___DSPS.Controllers
             return Ok(_data.GetSongsByTitle(word));
         }
 
+        [HttpGet("{id}")]
+        public ActionResult<Song> Get(int id)
+        {
+            Song song = _data.GetSongById(id);
+            if (song == null) return NotFound("Wrong id? Id not found in database");
+            return Ok(song);
+
+        }
 
     }
 }

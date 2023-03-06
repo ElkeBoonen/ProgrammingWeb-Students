@@ -10,6 +10,11 @@ namespace Eurosong___DSPS.Data
             list.Add(song);
         }
 
+        public Song GetSongById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Song> GetSongs()
         {
             return list;

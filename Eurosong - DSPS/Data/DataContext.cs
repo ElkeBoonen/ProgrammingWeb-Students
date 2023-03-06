@@ -7,5 +7,6 @@ namespace Eurosong___DSPS.Data
         void AddSong(Song song);
         IEnumerable<Song> GetSongs();
         IEnumerable<Song> GetSongsByTitle(string word);
+        Song GetSongById(int id);
     }
 }
