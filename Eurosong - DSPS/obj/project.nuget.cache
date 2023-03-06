@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q0CgbszMR6ocMPpQD9cbmv2w2GSMASnMavPNI1sdSgS8XBejKCiX8WyBgbU6mb8lEIJawt9JSQbzFLFBrCduEA==",
+  "dgSpecHash": "YiliS2826Ymy0fi9avB2I8Apr5Wy5dltHYQL6PbNiMXdP78hdEfJ3ssIKZiTCmL2Ul5fj5HdEVqXuruaRy38HA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elkeb\\OneDrive\\Desktop\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub\\ProgrammingWeb-Students\\Eurosong - DSPS\\Eurosong - DSPS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\litedb\\5.0.15\\litedb.5.0.15.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
