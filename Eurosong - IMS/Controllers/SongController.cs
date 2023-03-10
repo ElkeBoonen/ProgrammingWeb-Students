@@ -35,6 +35,13 @@ namespace Eurosong___IMS.Controllers
             return Ok(_data.GetSongsByWord(word));
         }
 
+        [HttpGet("{id}")]
+        public ActionResult<Song> GetByID(int id)
+        {
+            Song temp = _data.GetSongById(id);
+            if (temp == null) return NotFound("Id not found");
+            return Ok(temp);
+        }
 
 
     }

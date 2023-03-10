@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pitKK7dI4/t9DuL+nx8HEf0ClPZ4DYSb3+SHmUXF53R6GsPdB1mNHTtrBQQaKoZEdR6DiWBHy1QU5VAStYY+Ag==",
+  "dgSpecHash": "PeJAYDwOpF85Xtyl9zXexyCMC/lEPy+CrPOBdQ8Uaec+rmc2iHoBpcfD2+QS2KoiSRp1dMyQgq3PfvaF7iz0gQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub\\ProgrammingWeb-Students\\Eurosong - IMS\\Eurosong - IMS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\elkeb\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",

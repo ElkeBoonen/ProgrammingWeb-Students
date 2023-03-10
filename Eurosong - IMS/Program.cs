@@ -15,7 +15,7 @@ namespace Eurosong___IMS
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddSingleton(typeof(IDataContext), new DataList());
+            builder.Services.AddSingleton(typeof(IDataContext), new DataBase());
             //builder.Services.AddSingleton(typeof(IDataContext), typeof(DataList);
 
 
