@@ -29,6 +29,10 @@ namespace Eurosong___IMS.Controllers
             else return Ok(_data.GetSongsByWord(word));
         }
 
+        //deze methode is niet nodig, de methode hierboven kan ook gebruikt
+        //worden om te zoeken op een woord in de titel, en doet beide acties 
+        //nl alle songs teruggeven en indien nodig queryen op een woord
+
         /*
         [HttpGet]
         [Route("Search")]
