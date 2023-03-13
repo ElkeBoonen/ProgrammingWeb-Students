@@ -25,6 +25,7 @@ namespace Eurosong___DSPS
             var app = builder.Build();
 
             app.UseCors("MyPolicy");
+            app.UseHttpsRedirection();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
