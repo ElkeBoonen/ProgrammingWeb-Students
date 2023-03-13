@@ -1,5 +1,6 @@
 using Eurosong___DSPS.Data;
 using Eurosong___DSPS.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eurosong___DSPS.Controllers
@@ -16,6 +17,7 @@ namespace Eurosong___DSPS.Controllers
         }
         
         [HttpPost]
+        [Authorize(Policy = "BasicAuthentication")]
         public ActionResult Post(Song song)
         {
             _data.AddSong(song);
