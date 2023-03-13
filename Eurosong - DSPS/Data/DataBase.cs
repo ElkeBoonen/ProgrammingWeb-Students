@@ -26,5 +26,10 @@ namespace Eurosong___DSPS.Data
         {
             return db.GetCollection<Song>(songs).FindById(id);
         }
+
+        public void DeleteSong(int id)
+        {
+            db.GetCollection<Song>(songs).Delete(id);
+        }
     }
 }
