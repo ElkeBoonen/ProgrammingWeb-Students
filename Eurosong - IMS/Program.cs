@@ -8,8 +8,6 @@ namespace Eurosong___IMS
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
             builder.Services.AddCors(s => s.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin()
                                                .AllowAnyMethod()
                                                .AllowAnyHeader()));
@@ -23,8 +21,8 @@ namespace Eurosong___IMS
 
 
             var app = builder.Build();
-
             app.UseCors("MyPolicy");
+            app.UseHttpsRedirection();
             
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

@@ -15,7 +15,7 @@
                 song.spotify = $("#spotify").val();
                 $.ajax({           
                     type:"POST",
-                    url: "http://localhost:5219/Song",
+                    url: "https://localhost:5001/Song",
                     data: JSON.stringify(song),
                     dataType: "json",
                     contentType: "application/json",
