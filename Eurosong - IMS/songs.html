@@ -13,12 +13,17 @@
                 song.title = $("#title").val();
                 song.artist = $("#artist").val();
                 song.spotify = $("#spotify").val();
-                $.ajax({           
-                    type:"POST",
+                $.ajax({
+                    type: "POST",
                     url: "https://localhost:5001/Song",
                     data: JSON.stringify(song),
                     dataType: "json",
                     contentType: "application/json",
+                    headers: {
+                        "Authorization": "Basic " + btoa("test:test")
+                        //or use "Basic dGVzdDp0ZXN0"
+                        //or get username & password from form
+                    },
                 })
                 .done(function(result) {
                     console.log(result);

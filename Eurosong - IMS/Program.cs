@@ -1,4 +1,6 @@
 using Eurosong___IMS.Data;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Eurosong___IMS
 {
@@ -19,6 +21,15 @@ namespace Eurosong___IMS
             builder.Services.AddSingleton(typeof(IDataContext), new DataBase());
             //builder.Services.AddSingleton(typeof(IDataContext), typeof(DataList);
 
+            builder.Services
+              .AddAuthentication()
+              .AddScheme<AuthenticationSchemeOptions,
+                      BasicAuthenticationHandler>("BasicAuthenticationScheme", options => { });
+
+            builder.Services.AddAuthorization(options => {
+                options.AddPolicy("BasicAuthentication",
+                        new AuthorizationPolicyBuilder("BasicAuthenticationScheme").RequireAuthenticatedUser().Build());
+            });
 
             var app = builder.Build();
             app.UseCors("MyPolicy");
