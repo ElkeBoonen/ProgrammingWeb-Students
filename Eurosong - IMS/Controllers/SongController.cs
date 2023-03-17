@@ -23,23 +23,22 @@ namespace Eurosong___IMS.Controllers
         }
 
         [HttpGet]
-        public ActionResult<List<Song>> Get(string word="")
+        public ActionResult<List<Song>> Get()
         {
-            if (word == String.Empty) return Ok(_data.GetSongs());
-            else return Ok(_data.GetSongsByWord(word));
+            return Ok(_data.GetSongs());
         }
 
         //deze methode is niet nodig, de methode hierboven kan ook gebruikt
         //worden om te zoeken op een woord in de titel, en doet beide acties 
         //nl alle songs teruggeven en indien nodig queryen op een woord
 
-        /*
+        
         [HttpGet]
         [Route("Search")]
         public ActionResult<List<Song>> GetByWordInTitle(string word)
         {
             return Ok(_data.GetSongsByWord(word));
-        }*/
+        }
 
         [HttpGet("{id}")]
         public ActionResult<Song> GetByID(int id)
