@@ -11,6 +11,11 @@ namespace Eurosong___IMS.Data
             list.Add(song);
         }
 
+        public void DeleteSong(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public Song GetSongById(int id)
         {
             throw new NotImplementedException();

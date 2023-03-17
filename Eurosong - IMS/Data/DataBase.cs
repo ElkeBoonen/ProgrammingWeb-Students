@@ -26,5 +26,10 @@ namespace Eurosong___IMS.Data
         {
             return _db.GetCollection<Song>(_SONGS).FindById(id);
         }
+
+        public void DeleteSong(int id)
+        {
+            _db.GetCollection<Song>(_SONGS).Delete(id);
+        }
     }
 }

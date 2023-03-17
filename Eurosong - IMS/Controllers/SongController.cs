@@ -24,6 +24,14 @@ namespace Eurosong___IMS.Controllers
             return Ok("Song posted");
         }
 
+        [HttpDelete]
+        [Authorize(Policy = "BasicAuthentication", Roles= "admin")]
+        public ActionResult Delete(int id)
+        {
+            _data.DeleteSong(id);
+            return Ok("Song deleted");
+        }
+
         [HttpGet]
         public ActionResult<List<Song>> Get()
         {

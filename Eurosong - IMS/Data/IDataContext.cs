@@ -6,6 +6,7 @@ namespace Eurosong___IMS.Data
     {
         public void AddSong(Song song);
         public Song GetSongById(int id);
+        public void DeleteSong(int id);
         public IEnumerable<Song> GetSongs();
         public IEnumerable<Song> GetSongsByWord(string word);
 

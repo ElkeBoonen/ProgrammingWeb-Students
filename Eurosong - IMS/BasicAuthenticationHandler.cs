@@ -41,6 +41,20 @@ namespace Eurosong___IMS
             var authUsername = authSplit[0];
             var authPassword = authSplit.Length > 1 ? authSplit[1] : throw new Exception("Unable to get password");
 
+            if ((authUsername == "admin" && authPassword == "admin") || (authUsername == "test" && authPassword == "test"))
+            {
+                List<Claim> claims = new List<Claim>();
+                claims.Add(new Claim(ClaimTypes.Name, authUsername));
+
+                if (authUsername == "admin") claims.Add(new Claim(ClaimTypes.Role, "admin"));
+
+                var claimsPrincipal = new ClaimsPrincipal(new ClaimsIdentity(claims, "Custom"));
+
+                return Task.FromResult(AuthenticateResult.Success(new AuthenticationTicket(claimsPrincipal, Scheme.Name)));
+            }
+            return Task.FromResult(AuthenticateResult.Fail("The username or password is not correct."));
+
+            /*
             if (authUsername != "test" || authPassword != "test")
             {
                 return Task.FromResult(AuthenticateResult.Fail("The username or password is not correct."));
@@ -54,6 +68,7 @@ namespace Eurosong___IMS
             var claimsPrincipal = new ClaimsPrincipal(new ClaimsIdentity(claims, "Custom"));
 
             return Task.FromResult(AuthenticateResult.Success(new AuthenticationTicket(claimsPrincipal, Scheme.Name)));
+        */
         }
     }
 }
