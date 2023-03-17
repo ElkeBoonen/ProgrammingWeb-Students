@@ -10,6 +10,9 @@ namespace Eurosong___IMS
 
             // Add services to the container.
 
+            builder.Services.AddCors(s => s.AddPolicy("MyPolicy", builder => builder.AllowAnyOrigin()
+                                               .AllowAnyMethod()
+                                               .AllowAnyHeader()));
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -21,6 +24,8 @@ namespace Eurosong___IMS
 
             var app = builder.Build();
 
+            app.UseCors("MyPolicy");
+            
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
