@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rx8AyXYnSCl+bA6T62FjoxA0+HXf5Y2dJkuT3Vf8KlHOg7JiOXwu+a/6s3kjlBagx2sbR+oi7TG4ouNa7gaqYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub\\ProgrammingWeb-Students\\Call Elvis - DSPS\\Call Elvis - DSPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\elkeb\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

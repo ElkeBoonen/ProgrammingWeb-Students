@@ -1,0 +1,18 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Call Elvis - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Call Elvis - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Call Elvis - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Call Elvis - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Call Elvis - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\RestSharp.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\refint\Call Elvis - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\Call Elvis - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\obj\Debug\net6.0\ref\Call Elvis - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - DSPS\bin\Debug\net6.0\Newtonsoft.Json.dll
