@@ -6,24 +6,24 @@ namespace Call_Elvis___IMS
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+        static async Task Do()
         {
             RestClient client = new RestClient();
-            
+
             //songs eruit halen
             RestRequest request = new RestRequest("http://webservies.be/eurosong/Songs", Method.Get);
-            RestResponse response = client.Execute(request);
+            RestResponse response = await client.ExecuteAsync(request);
             //Console.WriteLine(response.Content);
             //Console.WriteLine(response.StatusCode);
             List<Song> songs = JsonSerializer.Deserialize<List<Song>>(response.Content);
 
             //artists eruit halen
             request = new RestRequest("http://webservies.be/eurosong/Artists", Method.Get);
-            response = client.Execute(request);
+            response = await client.ExecuteAsync(request);
             List<Artist> artists = JsonSerializer.Deserialize<List<Artist>>(response.Content);
 
             string artist = "";
-
 
             foreach (Song item in songs)
             {
@@ -38,13 +38,19 @@ namespace Call_Elvis___IMS
             request = new RestRequest(url, Method.Get);
             request.AddHeader("X-RapidAPI-Key", "key");
             request.AddHeader("X-RapidAPI-Host", "spotify-scraper.p.rapidapi.com");
-            response = client.Execute(request);
+            response = await client.ExecuteAsync(request);
             Console.WriteLine(response.Content);
             //gebruik https://codebeautify.org/jsonviewer om json code leesbaarder te maken
 
             dynamic data = JObject.Parse(response.Content);
             Console.WriteLine(data.spotifyTrack.shareUrl);
 
+        }
+
+        static void Main(string[] args)
+        {
+            var task = Do();
+            task.Wait();
 
         }
     }
