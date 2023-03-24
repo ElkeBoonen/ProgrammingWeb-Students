@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\Call Elvis - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\Call Elvis - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\Call Elvis - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\Call Elvis - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\Call Elvis - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\bin\Debug\net6.0\RestSharp.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\refint\Call Elvis - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\Call Elvis - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingWeb-Students\Call Elvis - IMS\obj\Debug\net6.0\ref\Call Elvis - IMS.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDDAfoAG9aC7FTnqZqiuqZbyhfWI3uiBbZQup/P+LUc3G42r/W+w5Dm/5QHCjOcpb6e9peqQeLHcF11pNva2xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub\\ProgrammingWeb-Students\\Call Elvis - IMS\\Call Elvis - IMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
